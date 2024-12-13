@@ -20,16 +20,16 @@
   <li><strong>Backend:</strong> Node.js, Express</li>
   <li><strong>Database:</strong> PostgreSQL</li>
 </ul>
-
+<!--
 <h2 style="color: #333; font-family: Arial, sans-serif;">Database Setup</h2>
 <p style="font-family: Arial, sans-serif; font-size: 14px;">
   For privacy reasons, the detailed database schema is not shared publicly. Please contact me directly if you need more information regarding the database setup.
-</p>
+</p>-->
 
 <h2 style="color: #333; font-family: Arial, sans-serif;">Screenshots</h2>
 <h3>Will update later</h3>
 <h2 style="color: #333; font-family: Arial, sans-serif;">Copyright & License</h2>
 <p style="font-family: Arial, sans-serif; font-size: 14px; color: #d9534f;"><strong>© 2024 Nithish MR. All rights reserved.</strong></p>
-<p style="font-family: Arial, sans-serif; font-size: 14px;">
+<!-- <p style="font-family: Arial, sans-serif; font-size: 14px;">
   This project is for personal showcase and demonstration purposes only. You may not copy, modify, or distribute any part of this project without explicit permission from the author.
-</p>
+</p> -->
